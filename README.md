@@ -6,3 +6,8 @@
   - [Praciting with Security Audits (Google)](https://github.com/wilbcn/Security-Audits/tree/main)
 
 <h2>📄 Certifications:</h2>
+
+- <b>Google Cybersecurity Professional Certificate</b>
+- <b>MSc Computer Science with Cybersecurity (University of Sunderland</b>
+
+
