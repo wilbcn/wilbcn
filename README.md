@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1>Hi, I'm Jake! <br/><a href="https://www.linkedin.com/in/jake-wilson-874559265/">EDI/B2B Communication Specialist | Frontline Support Expert</a>
 
-<!--
-**wilbcn/wilbcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+<h2> 🤳 Connect with me:</h2>
 
 Here are some ideas to get you started:
 
