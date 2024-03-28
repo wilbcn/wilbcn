@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Security Audits</b>
+  - [Praciting with Security Audits (Google)](https://github.com/wilbcn/Security-Audits/tree/main)
+
 <h2> 🤳 Connect with me:</h2>
 
 Here are some ideas to get you started:
