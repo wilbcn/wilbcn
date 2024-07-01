@@ -9,6 +9,9 @@
 
 - <b>Python Projects</b>
   - [Applying Python to Cybersecurity](https://github.com/wilbcn/Applying-Python-to-Cybersecurity)
+ 
+- <b>AWS Projects</b>
+
 
 <h2>📄 Certifications:</h2>
 
