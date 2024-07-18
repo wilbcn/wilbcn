@@ -10,7 +10,7 @@
 - <b>Python Projects</b>
   - [Applying Python to Cybersecurity](https://github.com/wilbcn/Applying-Python-to-Cybersecurity)
  
-- <b>AWS Projects</b>
+- <b>Cloud Projects</b>
   - [Projects using AWS](https://github.com/wilbcn/AWS-Projects)
 
 <h2>📄 Certifications:</h2>
