@@ -2,7 +2,7 @@
 
 <p>This resource is a work in progress and is intended to be finalised after the completion of my studies.</p>
 
-https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/wilbcn
+![Profile views](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https://api.countapi.xyz/hit/wilbcn)
 
 <h2>💻 Cybersecurity Projects:</h2>
 
