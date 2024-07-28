@@ -14,7 +14,8 @@
  
 - <b>Cloud Projects</b>
   - [Projects using AWS](https://github.com/wilbcn/AWS-Projects)
-
+  - [Working with Terraform](https://github.com/wilbcn/Terraform-Projects)
+ 
 <h2>📄 Certifications:</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
