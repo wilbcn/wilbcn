@@ -18,8 +18,10 @@
  
 <h2>📄 Certifications:</h2>
 
+- <b>Advanced Level Apprenticeship in IT, Software, Web & Telecoms Professionals </b>
 - <b>Google Cybersecurity Professional Certificate</b>
-- <b>MSc Computer Science with Cybersecurity (University of Sunderland (On-going) </b>
+- <b>MSc Computer Science with Cybersecurity (University of Sunderland (2025 Graduate) </b>
 - <b>AWS Certified Cloud Practioner (On-going) </b>
+
 
 
