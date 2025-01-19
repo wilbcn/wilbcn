@@ -22,7 +22,6 @@
 - <b>Google Cybersecurity Professional Certificate (May 2024)</b>
 - <b>MSc Computer Science with Cybersecurity (University of Sunderland (2025 Graduate) </b>
 - <b>AWS Certified Cloud Practioner (December 2024)</b>
-- <b>AWS Certified Solutions Architect (On-Going)</b>
 
 
 
