@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jake. <br/><a href="https://www.linkedin.com/in/jake-wilson-874559265/">EDI/B2B Communication Specialist | Frontline Support Expert & Cybersecurity Student</a></h1>
 
-<p>This resource is a work in progress and is intended to be finalised after the completion of my studies.</p>
+<p>On-going and complete projects showcasing my development as a cybersecurity practioner, programmer, and active cloud learner.</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ywilbcn)
 
@@ -14,7 +14,6 @@
  
 - <b>Cloud Projects</b>
   - [Projects using AWS](https://github.com/wilbcn/AWS-Projects)
-  - [Working with Terraform](https://github.com/wilbcn/Terraform-Projects)
  
 <h2>📄 Certifications:</h2>
 
