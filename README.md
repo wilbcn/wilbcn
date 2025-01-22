@@ -19,9 +19,9 @@
 <h2>📄 Certifications:</h2>
 
 - <b>Advanced Level Apprenticeship in IT, Software, Web & Telecoms Professionals (June 2017)</b>
-- <b>Google Cybersecurity Professional Certificate (May 2024)</b>
+- <b>Google Cybersecurity Professional Certificate (May 2024)</b> [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - <b>MSc Computer Science with Cybersecurity (University of Sunderland (2025 Graduate) </b>
 - <b>AWS Certified Cloud Practioner (December 2024)</b>
-- <b>Blue Team Level 1 (On-Going)</b>
+- <b>Blue Team Level 1 (On-Going)</b> [Blue Team Level 1](https://www.securityblue.team/certifications/blue-team-level-1)
 
 
