@@ -11,6 +11,7 @@
 
 - <b>Python Projects</b>
   - [Applying Python to Cybersecurity](https://github.com/wilbcn/Applying-Python-to-Cybersecurity)
+  - [General Projects](https://github.com/wilbcn/Python-Programmes)
  
 - <b>Cloud Projects</b>
   - [Projects using AWS](https://github.com/wilbcn/AWS-Projects)
@@ -21,7 +22,3 @@
 - <b>Google Cybersecurity Professional Certificate (May 2024)</b>
 - <b>MSc Computer Science with Cybersecurity (University of Sunderland (2025 Graduate) </b>
 - <b>AWS Certified Cloud Practioner (December 2024)</b>
-
-
-
-
