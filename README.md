@@ -14,7 +14,10 @@
   - [General Projects](https://github.com/wilbcn/Python-Programmes)
  
 - <b>Cloud Projects</b>
-  - [Projects using AWS](https://github.com/wilbcn/AWS-Projects)
+  - [Cybersecurity projects using AWS](https://github.com/wilbcn/AWS-Projects)
+
+- <b>SOC Analyst Projects and Training</b>
+  - [place holder 1](https://github.com/wilbcn/SOC-Analyst)
  
 <h2>📄 Certifications:</h2>
 
