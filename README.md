@@ -17,7 +17,7 @@
   - [Cybersecurity projects using AWS](https://github.com/wilbcn/AWS-Projects)
 
 - <b>SOC Analyst Projects and Training</b>
-  - [place holder 1](https://github.com/wilbcn/SOC-Analyst)
+  - [Projects for SOC experience](https://github.com/wilbcn/SOC-Analyst)
  
 <h2>📄 Certifications:</h2>
 
