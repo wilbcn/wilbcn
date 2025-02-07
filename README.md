@@ -16,8 +16,8 @@
 - <b>Cloud Projects</b>
   - [Cybersecurity projects using AWS](https://github.com/wilbcn/AWS-Projects)
 
-- <b>SOC Analyst Projects and Training</b>
-  - [Projects for SOC experience](https://github.com/wilbcn/SOC-Analyst)
+- <b>Security Analyst Projects & Training</b>
+  - [Home Lab](https://github.com/wilbcn/HomeLab)
  
 <h2>📄 Certifications:</h2>
 
