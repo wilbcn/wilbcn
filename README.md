@@ -58,6 +58,22 @@
 
 ---
 
+## 🗣️ Soft Skills  
+
+- **Mentoring & Onboarding** – Training new staff to integrate smoothly into the team.   
+
+- **Strong Communication & Customer Service** – Effectively engaging with customers, trading partners, and colleagues, ensuring clear and professional interactions.  
+
+- **Quick & Adaptive Learner** – Rapidly acquiring new technical skills and adapting to evolving challenges.  
+
+- **Self-Motivated & Proactive** – Highly motivated and proactive learner. Undergoing a variety of courses, an MSc, whilst working full-time.
+
+- **Excellent Social Skills** – Great at creating strong relationships between coworkers. 
+
+- **Spanish Language (Intermediate)** – Proficient in both written and spoken Spanish. Completed a 6 month intensive course in Barcelona, and have now lived here close to 3 years.
+
+---
+
 ## 📄 Certifications  
 
 - **Advanced Level Apprenticeship in IT, Software, Web & Telecoms Professionals**  
