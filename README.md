@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jake-wilson-874559265/)
 [![Profile Views](https://komarev.com/ghpvc/?username=wilbcn)](https://github.com/wilbcn)
 
-<p>Hi, I'm Jake 👋. I'm an MSc Cybersecurity student at the University of Sunderland (Class of 2025) with a strong passion for Blue Team security. I’m actively working on projects in cloud computing, digital forensics, and threat intelligence as I develop my expertise in cybersecurity.
+<p>Hi, I'm Jake 👋. I'm an MSc Cybersecurity student at the University of Sunderland (Graduating Summer of 2025) with a strong passion for Blue Team security. I’m actively working on projects in cloud computing, digital forensics, and threat intelligence as I develop my expertise in cybersecurity.
 
 ## 🖥️ Technical Experience  
 
@@ -62,7 +62,7 @@
 
 - **Mentoring & Onboarding** – Training new staff to integrate smoothly into the team.   
 
-- **Strong Communication & Customer Service** – Effectively engaging with customers, trading partners, and colleagues, ensuring clear and professional interactions.  
+- **Customer Service** – Effectively engaging with customers, trading partners, and colleagues, ensuring clear and professional interactions.  
 
 - **Quick & Adaptive Learner** – Rapidly acquiring new technical skills and adapting to evolving challenges.  
 
