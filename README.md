@@ -6,8 +6,8 @@
 
 ## 🖥️ Technical Experience  
 
-- **Python for Cybersecurity**  
-  *Projects:* [Fundamentals](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental)  
+- **Python Programmes**  
+  *Projects:* [Python for Cybersecurity](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental)  
 
 - **Cloud Computing**  
   *Projects:* [AWS Projects](https://github.com/wilbcn/AWS-Projects)  
