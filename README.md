@@ -33,28 +33,19 @@
 ---
 
 ## 🛠️ Tools I Have Experience With  
-
-- ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=flat&logo=wireshark) **Wireshark** – Network traffic analysis.  
-
-- ![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-orange?style=flat&logo=amazon-aws) **AWS Services** – EC2, IAM, S3, VPCs.  
-
-- ![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Management-blue?style=flat) **Active Directory** – User authentication & domain management.  
-
-- ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-VirusTotal-red) **Malware Analysis Tools** – VirusTotal, hybrid analysis platforms.  
-
-- ![Python](https://img.shields.io/badge/Python-Boto3-green?style=flat&logo=python) **Python (Boto3)** – AWS vulnerability checks.  
-
-- ![Linux](https://img.shields.io/badge/Linux-Command%20Line-yellow?style=flat&logo=linux) **Linux Command Line** – Handling files, investigating data logs, installing partner keys and certificates, and more. (Work-experience)  
-
-- ![Oracle](https://img.shields.io/badge/Oracle-CRM-red?style=flat&logo=oracle) **Oracle CRM** – Customer relationship management tools. (Work-experience) 
-
-- ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Threat%20Intelligence-purple?style=flat) **MITRE ATT&CK Framework** – Threat intelligence & adversary tactics.  
-
-- ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics Tools** – ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer. 
-
-- ![pgAdmin](https://img.shields.io/badge/PostgreSQL-pgAdmin%204-blue?style=flat&logo=postgresql) **pgAdmin 4** – PostgreSQL database management. (University)  
-
-- ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=flat&logo=cisco) **Cisco Packet Tracer** – Network simulation & configuration. (University)  
+| **Domain** | **Experience From** | **Tools & Description** |
+|------------|------------------|--------------------------|
+| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-orange?style=flat&logo=amazon-aws) **Cloud Computing** | Self-study, Personal projects for hands-on experience | Creating secure configurations of AWS Services – EC2, IAM, S3, VPCs. |
+| ![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Management-blue) **Identity & Access Management** | Self-study, Personal projects for hands-on experience | Active Directory – Basic Domain Controller and client config. |
+| ![Python](https://img.shields.io/badge/Python-Boto3-green?style=flat&logo=python) **Automation & Security** | Self-study, Personal projects for hands-on experience | Python (Boto3) – Practice with API's, checking for vulnerabilities. |
+| ![Linux](https://img.shields.io/badge/Linux-Command%20Line-yellow?style=flat&logo=linux) **Operating Systems** | Work | Linux Command Line – File handling, log queries and analysis, key and certificate installations, network tests. |
+| ![Oracle](https://img.shields.io/badge/Oracle-CRM-red?style=flat&logo=oracle) **Business & CRM** | Work | Oracle CRM – Customer relationship management tools. |
+| ![pgAdmin](https://img.shields.io/badge/PostgreSQL-pgAdmin%204-blue?style=flat&logo=postgresql) **Database Management** | University | pgAdmin 4 – PostgreSQL database management. |
+| ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=flat&logo=cisco) **Network Simulation** | University | Cisco Packet Tracer – Network simulation & configuration. |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=flat&logo=wireshark) **Network Analysis** | Blue Team Lvl 1, Hands-on Labs | Wireshark – Network traffic analysis. |
+| ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics** | Blue Team Lvl 1, Hands-on Labs | ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer, Browser History Viewer/Capture |
+| ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-VirusTotal-red) **Threat Analysis** | Blue Team Lvl 1, Hands-on Labs | Malware Analysis Tools – VirusTotal, Reverse DNS look-up, hybrid analysis platforms. |
+| ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Threat%20Intelligence-purple?style=flat) **Threat Intelligence** | Blue Team Lvl 1, Hands-on Labs | MITRE ATT&CK Framework – Adversary tactics & techniques. |
 
 ---
 
