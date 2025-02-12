@@ -13,11 +13,16 @@
 
 - [AWS Security Tool](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/aws-security-tool)
 
-- **Cloud Computing**  
-  *Projects:* [AWS Projects](https://github.com/wilbcn/AWS-Projects)  
-
+**Cloud Computing**  
+- [Isolated Networks with VPC Peering](https://github.com/wilbcn/AWS-Projects/blob/main/VPC-Peering.md)
+- [Secure access management with IAM](https://github.com/wilbcn/AWS-Projects/blob/main/Secure%20Access%20Management%20with%20IAM.md)
+- [Monitoring Traffic with VPC Flow Logs](https://github.com/wilbcn/AWS-Projects/blob/main/Monitoring%20traffic%20with%20VPC%20Flowlogs.md)
+- [VPC Endpoints](https://github.com/wilbcn/AWS-Projects/blob/main/AWS%20VPC%20Endpoints%20%26%20S3%20Access%20with%20EC2%20Instances.md)
+- [Log processing pipline](https://github.com/wilbcn/AWS-Projects/blob/main/AWS-Log-Processing-Pipeline.md)
+ 
 - **Home Lab Development**  
-  *Projects:* [Home Lab Setup](https://github.com/wilbcn/HomeLab)  
+  *Projects:* [Active Directory Setup](https://github.com/wilbcn/HomeLab)  
+  *Projects:* [Placeholder](<link>)
 
 - **Phishing Analysis**  
   *Projects:* [Placeholder](<link>)  
