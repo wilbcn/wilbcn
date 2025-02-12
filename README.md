@@ -6,10 +6,12 @@
 
 ## 🖥️ Technical Projects  
 
-- **Python Programmes**  
-  *Projects:* [Creating secure passwords](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/creating-secure-passwords)
-  *Projects:* [Virus Total Threat Scanner](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/VT-ThreatScan)
-  *Projects:* [AWS Security Tool](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/aws-security-tool)
+**Python Programmes**  
+- [Creating secure passwords](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/creating-secure-passwords)
+
+- [Virus Total Threat Scanner](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/VT-ThreatScan)
+
+- [AWS Security Tool](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/aws-security-tool)
 
 - **Cloud Computing**  
   *Projects:* [AWS Projects](https://github.com/wilbcn/AWS-Projects)  
