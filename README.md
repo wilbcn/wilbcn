@@ -4,7 +4,7 @@
 
 <p>Hi, I'm Jake 👋. I'm an MSc Cybersecurity student at the University of Sunderland (Graduating Summer of 2025) with a strong passion for Blue Team security. I’m actively working on projects in cloud computing, python programming, and artifact collection and analysis.
 
-## 🖥️ Technical Experience  
+## 🖥️ Technical Projects  
 
 - **Python Programmes**  
   *Projects:* [Python for Cybersecurity](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental)  
