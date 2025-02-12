@@ -19,8 +19,9 @@
   *Projects:* [Placeholder](<link>)  
 
 - **Digital Forensics**  
-  *Projects:* [Placeholder](<link>)  
-
+  *Projects:* [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/WindowsBrowsers))  
+  *Projects:* [Placeholder](<link>)
+  
 - **Threat Intelligence**  
   *Projects:* [Placeholder](<link>)  
 
