@@ -27,9 +27,9 @@
 - **Phishing Analysis**  
   *Projects:* [Placeholder](<link>)  
 
-- **Digital Forensics**  
-  *Projects:* [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/tree/main/WindowsBrowsers)  
-  *Projects:* [Placeholder](<link>)
+**Digital Forensics**  
+- [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/tree/main/WindowsBrowsers)  
+- [Recovering and Analysing deleted files](https://github.com/wilbcn/DigitalForensics/tree/main/Recover-Deleted-Files)
   
 - **Threat Intelligence**  
   *Projects:* [Placeholder](<link>)  
