@@ -29,7 +29,7 @@
 
 **Digital Forensics**  
 - [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/tree/main/WindowsBrowsers)  
-- [Recovering and Analysing deleted files](https://github.com/wilbcn/DigitalForensics/tree/main/Recover-Deleted-Files)
+- [Recovering Recycle Bin Files](https://github.com/wilbcn/DigitalForensics/tree/main/Recover-Deleted-Files)
   
 - **Threat Intelligence**  
   *Projects:* [Placeholder](<link>)  
