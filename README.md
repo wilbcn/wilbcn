@@ -35,10 +35,10 @@
 - [Placeholder](<link>)  
 
 **Security Information & Event Management (SIEM)**  
-  *Projects:* [Placeholder](<link>)  
+- [Placeholder](<link>)  
 
-- **Incident Response & Detection**  
-  *Projects:* [Placeholder](<link>)  
+**Incident Response & Detection**  
+- [Placeholder](<link>)  
 
 ---
 
