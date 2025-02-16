@@ -19,22 +19,22 @@
 - [Monitoring Traffic with VPC Flow Logs](https://github.com/wilbcn/AWS-Projects/blob/main/Monitoring%20traffic%20with%20VPC%20Flowlogs.md)
 - [VPC Endpoints](https://github.com/wilbcn/AWS-Projects/blob/main/AWS%20VPC%20Endpoints%20%26%20S3%20Access%20with%20EC2%20Instances.md)
 - [Log processing pipline](https://github.com/wilbcn/AWS-Projects/blob/main/AWS-Log-Processing-Pipeline.md)
- 
-- **Home Lab Development**  
-  *Projects:* [Active Directory Setup](https://github.com/wilbcn/HomeLab)  
-  *Projects:* [Placeholder](<link>)
 
-- **Phishing Analysis**  
-  *Projects:* [Placeholder](<link>)  
+**Home Lab Development**  
+- [Active Directory Setup](https://github.com/wilbcn/HomeLab)
+- [Placeholder](<link>)
+
+**Phishing Analysis**  
+- [Placeholder](<link>)  
 
 **Digital Forensics**  
 - [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/tree/main/WindowsBrowsers)  
 - [Recovering Recycle Bin Files](https://github.com/wilbcn/DigitalForensics/tree/main/Recover-Deleted-Files)
   
-- **Threat Intelligence**  
-  *Projects:* [Placeholder](<link>)  
+**Threat Intelligence**  
+- [Placeholder](<link>)  
 
-- **Security Information & Event Management (SIEM)**  
+**Security Information & Event Management (SIEM)**  
   *Projects:* [Placeholder](<link>)  
 
 - **Incident Response & Detection**  
@@ -53,7 +53,7 @@
 | ![pgAdmin](https://img.shields.io/badge/PostgreSQL-pgAdmin%204-blue?style=flat&logo=postgresql) **Database Management** | University | pgAdmin 4 – PostgreSQL database management. |
 | ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=flat&logo=cisco) **Network Simulation** | University | Cisco Packet Tracer – Network simulation & configuration. |
 | ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=flat&logo=wireshark) **Network Analysis** | Blue Team Lvl 1, Hands-on Labs | Wireshark – Network traffic analysis. |
-| ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics** | Blue Team Lvl 1, Hands-on Labs | ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer, Browser History Viewer/Capture |
+| ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics** | Blue Team Lvl 1, Hands-on Labs | ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer, Browser History Viewer/Capture, Volatility, Autospy |
 | ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-VirusTotal-red) **Threat Analysis** | Blue Team Lvl 1, Hands-on Labs | Malware Analysis Tools – VirusTotal, Reverse DNS look-up, hybrid analysis platforms. |
 | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Threat%20Intelligence-purple?style=flat) **Threat Intelligence** | Blue Team Lvl 1, Hands-on Labs | MITRE ATT&CK Framework – Adversary tactics & techniques. |
 
