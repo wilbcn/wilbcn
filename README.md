@@ -21,7 +21,7 @@
 - [Log processing pipline](https://github.com/wilbcn/AWS-Projects/blob/main/AWS-Log-Processing-Pipeline.md)
 
 **Home Lab Development**  
-- [Active Directory Setup](https://github.com/wilbcn/HomeLab)
+- [Basic AD Domain Controller](https://github.com/wilbcn/HomeLab)
 - [Placeholder](<link>)
 
 **Phishing Analysis**  
