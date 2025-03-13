@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jake-wilson-874559265/)
 [![Profile Views](https://komarev.com/ghpvc/?username=wilbcn)](https://github.com/wilbcn)
 
-<p>Hi, I'm Jake 👋. I'm an MSc Cybersecurity student at the University of Sunderland (Graduating Summer of 2025) with a strong passion for Blue Team security. I’m actively working on projects in cloud computing, python programming, and artifact collection and analysis.
+<p>Hi, I'm Jake 👋. I'm an MSc Cybersecurity student at the University of Sunderland (Graduating Summer of 2025) with a strong passion for Blue Team security. I’m actively working on projects in cloud computing, python programming, and artifact collection and analysis. Through these projects, I'm building hands-on experience with a diverse range of security tools, continuously developing my skills and knowledge as an aspiring cybersecurity professional.
 
 ## 🖥️ Technical Projects  
 
