@@ -25,7 +25,7 @@
 - [Placeholder](<link>)
 
 **Phishing Analysis**  
-- [Investigating emails](https://github.com/wilbcn/Phishing)  
+- [Investigating phishing emails](https://github.com/wilbcn/Phishing)  
 
 **Digital Forensics**  
 - [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/tree/main/WindowsBrowsers)  
