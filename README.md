@@ -53,9 +53,10 @@
 | ![pgAdmin](https://img.shields.io/badge/PostgreSQL-pgAdmin%204-blue?style=flat&logo=postgresql) **Database Management** | University | pgAdmin 4 – PostgreSQL database management. |
 | ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=flat&logo=cisco) **Network Simulation** | University | Cisco Packet Tracer – Network simulation & configuration. |
 | ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=flat&logo=wireshark) **Network Analysis** | Blue Team Lvl 1, Hands-on Labs | Wireshark – Network traffic analysis. |
-| ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics** | Blue Team Lvl 1, Hands-on Labs | ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer, Browser History Viewer/Capture, Volatility, Autospy |
+| ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics** | Blue Team Lvl 1, Hands-on Labs | ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer, Browser History Viewer/Capture, Volatility, Autopsy |
 | ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-VirusTotal-red) **Threat Analysis** | Blue Team Lvl 1, Hands-on Labs | Malware Analysis Tools – VirusTotal, Reverse DNS look-up, hybrid analysis platforms. |
 | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Threat%20Intelligence-purple?style=flat) **Threat Intelligence** | Blue Team Lvl 1, Hands-on Labs | MITRE ATT&CK Framework – Adversary tactics & techniques. |
+| ![Email Artifact Analysis](https://img.shields.io/badge/Email%20Analysis-Phishing%20Investigation-blue) **Phishing & Email Security** | Blue Team Lvl 1, Hands-on Labs | Email artifact analysis – URL2PNG, Cisco Talos Intelligence, AbuseIPDB, Reverse DNS Lookup, VirusTotal, **and more..!** |
 
 ---
 
