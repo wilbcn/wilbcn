@@ -8,9 +8,7 @@
 
 **Python Programmes**  
 - [Creating secure passwords](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/creating-secure-passwords)
-
 - [Virus Total Threat Scanner](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/VT-ThreatScan)
-
 - [AWS Security Tool](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/aws-security-tool)
 
 **Cloud Computing**  
