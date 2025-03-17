@@ -19,10 +19,10 @@
 - [Log processing pipline](https://github.com/wilbcn/AWS-Projects/blob/main/AWS-Log-Processing-Pipeline.md)
 
 **Home Lab Development**
-- [Basic AD Domain Controller](https://github.com/wilbcn/HomeLab)
-- [Investigating phishing emails](https://github.com/wilbcn/Phishing)
-- [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/tree/main/WindowsBrowsers)  
-- [Recovering Recycle Bin Files](https://github.com/wilbcn/DigitalForensics/tree/main/Recover-Deleted-Files)
+- [Basic AD Domain Controller](https://github.com/wilbcn/HomeLab/blob/main/Active-Directory-Setup/AD-Setup.md)
+- [Investigating phishing emails](https://github.com/wilbcn/Phishing/blob/main/Phishing-Analysis-1.md)
+- [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/blob/main/WindowsBrowsers/Investigate-Browsers.md)  
+- [Recovering Recycle Bin Files](https://github.com/wilbcn/DigitalForensics/blob/main/Recover-Deleted-Files/Recover-Deleted-Files.md)
 - [Building a Splunk Cloud Homelab for Log Analysis](https://github.com/wilbcn/Splunk/blob/main/Splunk-Cloud-HomeLab.md)
 
 ---
