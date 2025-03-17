@@ -30,7 +30,7 @@
 ## 🛠️ Tools I Have Experience With  
 | **Domain** | **Experience From** | **Tools & Description** |
 |------------|------------------|--------------------------|
-| ![Splunk](https://img.shields.io/badge/Splunk-Log%20Analysis%20&%20SIEM-green?style=flat&logo=splunk) **Log Analysis & SIEM** | Self-study, Hands-on projects | **Splunk Cloud & Universal Forwarders** – Configured UFs on Windows & Linux, performed **log aggregation, basic SPL queries, and security investigations**. Next steps: **scenario-based threat detection, alerts, and dashboards.** |
+| ![Splunk](https://img.shields.io/badge/Splunk-Log%20Analysis%20&%20SIEM-green?style=flat&logo=splunk) **Log Analysis & SIEM** | Self-study, Hands-on projects | Splunk Cloud & Universal Forwarders – Configured UFs on Windows & Linux, performed log aggregation, basic SPL queries, and security investigations. |
 | ![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-orange?style=flat&logo=amazon-aws) **Cloud Computing** | Self-study, Personal projects for hands-on experience | Creating secure configurations of AWS Services – EC2, IAM, S3, VPCs. |
 | ![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Management-blue) **Identity & Access Management** | Self-study, Personal projects for hands-on experience | Active Directory – Basic Domain Controller and client config. |
 | ![Python](https://img.shields.io/badge/Python-Boto3-green?style=flat&logo=python) **Automation & Security** | Self-study, Personal projects for hands-on experience | Python (Boto3) – Practice with API's, checking for vulnerabilities. |
