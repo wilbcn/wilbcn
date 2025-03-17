@@ -65,16 +65,15 @@
 ---
 
 ## 📄 Certifications  
-
+- 🎓 **MSc Computer Science with Cybersecurity**  
+  *Institution:* University of Sunderland (Expected summer 2025)
+  
 - **Advanced Level Apprenticeship in IT, Software, Web & Telecoms Professionals**  
   *Issued by:* UK Apprenticeship Program (June 2017)  
 
 - ![Google](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat&logo=google) **Google Cybersecurity Professional Certificate**  
   *Issued by:* Google (May 2024)  
   [View Certification](https://www.coursera.org/professional-certificates/google-cybersecurity)  
-
-- 🎓 **MSc Computer Science with Cybersecurity**  
-  *Institution:* University of Sunderland (Expected 2025)  
 
 - ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat&logo=amazon-aws) **AWS Certified Cloud Practitioner**  
   *Issued by:* AWS (Expected December 2024)  
