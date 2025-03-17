@@ -6,19 +6,19 @@
 
 ## 🖥️ Technical Projects  
 
-**Python Programmes**  
+🐍 **Python Programmes**  
 - [Creating secure passwords](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/creating-secure-passwords)
 - [Virus Total Threat Scanner](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/VT-ThreatScan)
 - [AWS Security Tool](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/aws-security-tool)
 
-**Cloud Computing**  
+☁️ **Cloud Computing**  
 - [Isolated Networks with VPC Peering](https://github.com/wilbcn/AWS-Projects/blob/main/VPC-Peering.md)
 - [Secure access management with IAM](https://github.com/wilbcn/AWS-Projects/blob/main/Secure%20Access%20Management%20with%20IAM.md)
 - [Monitoring Traffic with VPC Flow Logs](https://github.com/wilbcn/AWS-Projects/blob/main/Monitoring%20traffic%20with%20VPC%20Flowlogs.md)
 - [VPC Endpoints](https://github.com/wilbcn/AWS-Projects/blob/main/AWS%20VPC%20Endpoints%20%26%20S3%20Access%20with%20EC2%20Instances.md)
 - [Log processing pipline](https://github.com/wilbcn/AWS-Projects/blob/main/AWS-Log-Processing-Pipeline.md)
 
-**Home Lab Development**
+🏠 **Home Lab Development**
 - [Basic AD Domain Controller](https://github.com/wilbcn/HomeLab/blob/main/Active-Directory-Setup/AD-Setup.md)
 - [Investigating phishing emails](https://github.com/wilbcn/Phishing/blob/main/Phishing-Analysis-1.md)
 - [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/blob/main/WindowsBrowsers/Investigate-Browsers.md)  
@@ -30,6 +30,7 @@
 ## 🛠️ Tools I Have Experience With  
 | **Domain** | **Experience From** | **Tools & Description** |
 |------------|------------------|--------------------------|
+| ![Splunk](https://img.shields.io/badge/Splunk-Log%20Analysis%20&%20SIEM-green?style=flat&logo=splunk) **Log Analysis & SIEM** | Self-study, Hands-on projects | **Splunk Cloud & Universal Forwarders** – Configured UFs on Windows & Linux, performed **log aggregation, basic SPL queries, and security investigations**. Next steps: **scenario-based threat detection, alerts, and dashboards.** |
 | ![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-orange?style=flat&logo=amazon-aws) **Cloud Computing** | Self-study, Personal projects for hands-on experience | Creating secure configurations of AWS Services – EC2, IAM, S3, VPCs. |
 | ![Active Directory](https://img.shields.io/badge/Active%20Directory-User%20Management-blue) **Identity & Access Management** | Self-study, Personal projects for hands-on experience | Active Directory – Basic Domain Controller and client config. |
 | ![Python](https://img.shields.io/badge/Python-Boto3-green?style=flat&logo=python) **Automation & Security** | Self-study, Personal projects for hands-on experience | Python (Boto3) – Practice with API's, checking for vulnerabilities. |
