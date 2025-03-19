@@ -44,8 +44,8 @@
 - [Investigating phishing emails](https://github.com/wilbcn/Phishing/blob/main/Phishing-Analysis-1.md)
 - [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/blob/main/WindowsBrowsers/Investigate-Browsers.md)  
 - [Recovering Recycle Bin Files](https://github.com/wilbcn/DigitalForensics/blob/main/Recover-Deleted-Files/Recover-Deleted-Files.md)
-- [Building a Splunk Cloud Homelab for Log Analysis](https://github.com/wilbcn/Splunk/blob/main/Splunk-Cloud-HomeLab.md)
-- [Detecting & Mitigating Unauthorised Access](https://github.com/wilbcn/Splunk/blob/main/Splunk-Investigations-1.md)
+- [Splunk: Building a Splunk Cloud Homelab for Log Analysis](https://github.com/wilbcn/Splunk/blob/main/Splunk-Cloud-HomeLab.md)
+- [Splunk: Detecting & Mitigating Unauthorised Access](https://github.com/wilbcn/Splunk/blob/main/Splunk-Investigations-1.md)
 
 ---
 
