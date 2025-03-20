@@ -21,7 +21,7 @@
 | ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics** | Self-study Projects, Blue Team Lvl 1 Labs | ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer, Browser History Viewer/Capture, Volatility, Autopsy. [Projects](https://github.com/wilbcn/DigitalForensics) |
 | ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-VirusTotal-red) **Threat Analysis** | Self-study Projects, Blue Team Lvl 1 Labs | Malware Analysis Tools – VirusTotal, Reverse DNS look-up, hybrid analysis platforms. [Projects](https://github.com/wilbcn/DigitalForensics) |
 | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Threat%20Intelligence-purple?style=flat) **Threat Intelligence** | Blue Team Lvl 1 Labs | MITRE ATT&CK Framework – Adversary tactics & techniques. |
-| ![Email Artifact Analysis](https://img.shields.io/badge/Email%20Analysis-Phishing%20Investigation-blue) **Phishing & Email Security** | Blue Team Lvl 1 Labs | Email artifact analysis – URL2PNG, Cisco Talos Intelligence, AbuseIPDB, Reverse DNS Lookup, VirusTotal, and more..! [Projects](https://github.com/wilbcn/Phishing/tree/main) |
+| ![Email Artifact Analysis](https://img.shields.io/badge/Email%20Analysis-Phishing%20Investigation-blue) **Phishing & Email Security** | Self-study Projects, Blue Team Lvl 1 Labs | Phishing Email Artifact Analysis. [Projects](https://github.com/wilbcn/Phishing/tree/main) |
 
 ---
 
