@@ -25,30 +25,6 @@
 
 ---
 
-## 🖥️ Technical Projects  
-
-🐍 **Python Programmes**  
-- [Creating secure passwords](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/creating-secure-passwords)
-- [Virus Total Threat Scanner](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/VT-ThreatScan)
-- [AWS Security Tool](https://github.com/wilbcn/Applying-Python-to-Cybersecurity/tree/main/Fundamental/aws-security-tool)
-
-☁️ **Cloud Computing**  
-- [Isolated Networks with VPC Peering](https://github.com/wilbcn/AWS-Projects/blob/main/VPC-Peering.md)
-- [Secure access management with IAM](https://github.com/wilbcn/AWS-Projects/blob/main/Secure%20Access%20Management%20with%20IAM.md)
-- [Monitoring Traffic with VPC Flow Logs](https://github.com/wilbcn/AWS-Projects/blob/main/Monitoring%20traffic%20with%20VPC%20Flowlogs.md)
-- [VPC Endpoints](https://github.com/wilbcn/AWS-Projects/blob/main/AWS%20VPC%20Endpoints%20%26%20S3%20Access%20with%20EC2%20Instances.md)
-- [Log processing pipline](https://github.com/wilbcn/AWS-Projects/blob/main/AWS-Log-Processing-Pipeline.md)
-
-🏠 **Home Lab Development**
-- [Basic AD Domain Controller](https://github.com/wilbcn/HomeLab/blob/main/Active-Directory-Setup/AD-Setup.md)
-- [Investigating phishing emails](https://github.com/wilbcn/Phishing/blob/main/Phishing-Analysis-1.md)
-- [Investigating Browser Artifacts](https://github.com/wilbcn/DigitalForensics/blob/main/WindowsBrowsers/Investigate-Browsers.md)  
-- [Recovering Recycle Bin Files](https://github.com/wilbcn/DigitalForensics/blob/main/Recover-Deleted-Files/Recover-Deleted-Files.md)
-- [Splunk: Building a Splunk Cloud Homelab for Log Analysis](https://github.com/wilbcn/Splunk/blob/main/Splunk-Cloud-HomeLab.md)
-- [Splunk: Detecting & Mitigating Unauthorised Access](https://github.com/wilbcn/Splunk/blob/main/Splunk-Investigations-1.md)
-
----
-
 ## 🗣️ Soft Skills  
 
 - **Mentoring & Onboarding** – Training new staff to integrate smoothly into the team.   
