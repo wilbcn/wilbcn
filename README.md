@@ -53,7 +53,8 @@
   [View Certification](https://www.coursera.org/professional-certificates/google-cybersecurity)  
 
 - ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=flat&logo=amazon-aws) **AWS Certified Cloud Practitioner**  
-  *Issued by:* AWS (Expected December 2024)  
+  *Issued by:* AWS (Issued December 2024)
+  [View Certification](https://www.credly.com/badges/83423306-b693-436c-a196-939e26341273/public_url)
 
 - ![Blue Team](https://img.shields.io/badge/Blue%20Team-Level%201-blue?style=flat&logo=security) **Blue Team Level 1**  
   *Issued by:* Security Blue Team (Ongoing)  
