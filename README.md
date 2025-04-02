@@ -23,7 +23,7 @@ Checkout all of my Blue Team projects here -> [Projects](https://github.com/wilb
 | ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=flat&logo=cisco) **Network Simulation** | University | Cisco Packet Tracer – Network simulation & configuration. |
 | ![Forensics](https://img.shields.io/badge/Digital%20Forensics-Investigation-blue) **Digital Forensics** | Self-study Projects, Blue Team Lvl 1 Labs | ExifTool, Scalpel, FTK Imager, Microsoft File Analyzer, Browser History Viewer/Capture, Volatility, Autopsy, DeepBlueCLI. Malware Analysis Tools – VirusTotal, Reverse DNS look-up, hybrid analysis platforms. [Projects](https://github.com/wilbcn/BlueTeam/tree/main/Digital-Forensics) |
 | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Threat%20Intelligence-purple?style=flat) **Threat Intelligence** | Blue Team Lvl 1 Labs | MITRE ATT&CK Framework – Adversary tactics & techniques. |
-| ![Email Artifact Analysis](https://img.shields.io/badge/Email%20Analysis-Phishing%20Investigation-blue) **Phishing & Email Security** | Self-study Projects, Blue Team Lvl 1 Labs | Phishing Email Artifact Analysis. [Projects](https://github.com/wilbcn/Phishing/tree/main) |
+| ![Email Artifact Analysis](https://img.shields.io/badge/Email%20Analysis-Phishing%20Investigation-blue) **Phishing & Email Security** | Self-study Projects, Blue Team Lvl 1 Labs | Phishing Email Artifact Analysis. [Projects](https://github.com/wilbcn/BlueTeam/tree/main/Phishing-Email-Analysis) |
 
 ---
 
