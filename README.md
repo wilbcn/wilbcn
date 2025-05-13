@@ -25,25 +25,6 @@ Checkout all of my Blue Team projects here -> [Projects](https://github.com/wilb
 | ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-blue?style=flat&logo=cisco) **Network Simulation** | University | Cisco Packet Tracer – Network simulation & configuration. |
 | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Threat%20Intelligence-purple?style=flat) **Threat Intelligence** | Blue Team Lvl 1 Labs | MITRE ATT&CK Framework – Adversary tactics & techniques. |
 
-
----
-
-## 🗣️ Soft Skills  
-
-- **Mentoring & Onboarding** – Training new staff to integrate smoothly into the team.   
-
-- **Customer Service** – Effectively engaging with customers, trading partners, and colleagues, ensuring clear and professional interactions.  
-
-- **Quick & Adaptive Learner** – Rapidly acquiring new technical skills and adapting to evolving challenges.  
-
-- **Self-Motivated & Proactive** – Highly motivated and proactive learner. Undergoing a variety of courses, an MSc, whilst working full-time.
-
-- **Excellent Social Skills** – Great at creating strong relationships between coworkers. 
-
-- **Spanish Language (Intermediate)** – Proficient in both written and spoken Spanish. Completed a 6 month intensive course in Barcelona, and have now lived here close to 3 years.
-
----
-
 ## 📄 Certifications  
 - 🎓 **MSc Computer Science with Cybersecurity**  
   *Institution:* University of Sunderland (Expected summer 2025)
@@ -60,8 +41,8 @@ Checkout all of my Blue Team projects here -> [Projects](https://github.com/wilb
   [View Certification](https://www.credly.com/badges/83423306-b693-436c-a196-939e26341273/public_url)
 
 - ![Blue Team](https://img.shields.io/badge/Blue%20Team-Level%201-blue?style=flat&logo=security) **Blue Team Level 1**  
-  *Issued by:* Security Blue Team (Ongoing)  
-  [View Certification](https://www.securityblue.team/certifications/blue-team-level-1)  
+  *Issued by:* Security Blue Team (12-05-2022)
+  [View Certification](https://www.credly.com/badges/4cff1905-26c6-45dd-8219-e99f6105d6e5/public_url)  
 
 
 
