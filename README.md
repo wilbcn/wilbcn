@@ -8,7 +8,7 @@ Through this experience I am to transition careers, from my 9+ years experience 
 
 Checkout all of my Blue Team projects here -> [Projects](https://github.com/wilbcn/BlueTeam/tree/main)
 
-Currently learning/working on: Microsoft XDR, Microsoft Sentinel, Cowrie Honeypot
+🧠 Currently learning/working on: Microsoft XDR, Microsoft Sentinel, Cowrie Honeypot 
 
 ---
 
